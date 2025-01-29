@@ -139,7 +139,7 @@ const LandingPage = () => {
 			<section className="bg-gray-900 py-10 text-white">
 				<h2 className="text-center text-3xl font-bold mb-6">Explore Famous Destinations in India</h2>
 
-				<Carousel className="w-full max-w-3xl mx-auto">
+				<Carousel plugins={[Autoplay({ delay: 2000 })]}  className="w-full max-w-3xl mx-auto">
 					<CarouselContent>
 						{locations.map((location, index) => (
 							<CarouselItem key={index} className="p-2">
