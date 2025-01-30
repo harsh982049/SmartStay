@@ -1,0 +1,3234 @@
+[
+    {
+        "Hotel Name":"Taj Club House, Chennai",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Royapettah",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"The Park Chennai",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Near US Consulate",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Taj Fisherman's Cove Resort & Spa, Chennai",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Covelong ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Hotel Savera",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Mylapore",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Ibis Chennai OMR - An Accor Brand",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Sholinganallur",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Taj Coromandel, Chennai",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Near US Consulate",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Courtyard by Marriott Chennai",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Mount road",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Radisson Blu Hotel Chennai City Centre",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Egmore",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"FIRST INN HOTELS",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Perungudi",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Ibis Chennai City Centre - An Accor Brand",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Mount road ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Rohaan Inns - UPAR Ashok Nagar",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Ashok Nagar ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Vivanta Chennai, IT Expressway",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Sholinganallur",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Taj Connemara, Chennai",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Chennai",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Four Points by Sheraton Chennai OMR",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Sholinganallur",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Ramada Plaza by Wyndham",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Saidapet ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Citadines OMRChennai",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Sholinganallur",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"The Leela Palace Chennai",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Raja Annamalai Puram",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"The Raintree, Annasalai",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Mount road",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Hablis",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Mount road ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Novotel Chennai Chamiers Road",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Nandanam",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"The Residency",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"T Nagar",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"The Residency Towers",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"T Nagar",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Novotel Chennai OMR - An Accor Brand",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Sholinganallur",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Hotel Southern Comfort ( Chennai Airport )",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Chennai Airport ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Lemon Tree Hotel Chennai",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Saidapet ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"The Pride Hotel Chennai",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Kilpauk",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Ginger Chennai, Vadapalani",
+        "Rating":3.5,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Vadapalani",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"UPAR Nungambakkam",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Nungambakkam",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Ginger Chennai",
+        "Rating":3.5,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Tharamani",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Holiday Inn Express Chennai OMR Thoraipakkam",
+        "Rating":3.5,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Thoraipakkam",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Raj Park Chennai",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Teynampet",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"UPAR Uthandi, ECR\r\nLike a 3",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"East Coast Road (ECR)",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Hotel Abu Palace",
+        "Rating":3.4,
+        "Rating Description":"Good",
+        "Star Rating":4.0,
+        "Location":"Purasawalkam ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Ramada Chennai Egmore",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Egmore",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Hyatt Regency Chennai",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Teynampet",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Lemon Tree Hotel, Shimona, Chennai",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Manapakkam ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Trident Chennai",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Chennai Airport ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Holiday Inn Chennai OMR IT Expressway",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Thiruvanmiyur",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Ibis Chennai SIPCOT - An Accor Brand",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Egatoor ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"The Accord Metropolitan",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"T Nagar",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Park Hyatt Chennai",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Guindy ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"OYO Home Fantasea Uthandi Near Juhu Beach",
+        "Rating":1.9,
+        "Rating Description":"Poor",
+        "Star Rating":null,
+        "Location":"Uthandi",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Gokulam Park Sabari - Siruseri SIPCOT",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Navallur",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"BOULEVARD BY DESIGN HOTEL",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Velachery ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Fairfield by Marriott Chennai OMR",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Sholinganallur",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"ITC Grand Chola - A Luxury Collection Hotel",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Guindy ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"The Ambassador Pallava",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Egmore",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Le Royal Meridien",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Mount road ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Taj Wellington Mews, Chennai",
+        "Rating":4.7,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Tharamani",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Novotel Chennai Sipcot - An Accor Brand",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Egatoor ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"The Mount Manor",
+        "Rating":3.4,
+        "Rating Description":"Good",
+        "Star Rating":3.0,
+        "Location":"Chennai Airport ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Green Park Chennai",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Vadapalani",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Mango Hill central Chennai",
+        "Rating":3.2,
+        "Rating Description":"Good",
+        "Star Rating":3.0,
+        "Location":"T Nagar",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Venture Park",
+        "Rating":3.5,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Thoraipakkam",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Grand Chennai by GRT Hotels",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"T Nagar",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Season 4 Residences, Nungambakkam",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Near US Consulate",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Ginger Chennai OMR",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":3.0,
+        "Location":"Navallur",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Hotel Pandian",
+        "Rating":3.5,
+        "Rating Description":"Very Good",
+        "Star Rating":2.0,
+        "Location":"Egmore",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Hilton Chennai",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Guindy ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"FORTEL",
+        "Rating":3.5,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Egmore",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Royal Park",
+        "Rating":3.1,
+        "Rating Description":"Good",
+        "Star Rating":null,
+        "Location":"Near Marina Beach",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Fairfield by Marriott Chennai Mahindra World City",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Mahindra World City ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Crossway Parklane Airport Hotel",
+        "Rating":3.2,
+        "Rating Description":"Good",
+        "Star Rating":3.0,
+        "Location":"Meenambakkam ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Hotel Ashok Residency",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Porur",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Hotel Greens Gate (Near Central station)",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Poongavanapuram",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"HOTEL RANJITH",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Near US Consulate",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Welcomhotel by ITC Hotels, GST Road, Chennai",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Singaperumal Koil ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Regenta Central RS Chennai SIPCOT OMR",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":4.0,
+        "Location":"Egatoor ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"CRESCENT PARK (near US Consulate Chennai)",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Nungambakkam",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Harrisons",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Nungambakkam",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"MGM Beach Resorts (15Kms before Mahabalipuram)",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Muttukadu ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"PARK PLAZA CHENNAI OMR",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Thoraipakkam",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Feathers A Radha Hotel Chennai",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Manapakkam ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"V7 HOTEL",
+        "Rating":3.2,
+        "Rating Description":"Good",
+        "Star Rating":3.0,
+        "Location":"Porur",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Keys Select by Lemon Tree Hotels, Katti-Ma, Chennai",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Adyar",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Hostel Gandhi",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Saidapet ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Grand Cascade",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Poongavanapuram ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Days Hotel Chennai OMR",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":4.0,
+        "Location":"Kelambakkam ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"PP Residency",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Chennai ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Highnest | Rooms & Caretaker",
+        "Rating":3.5,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Kattankolatur R.F. ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Grand Elegant",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Poongavanapuram",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Accord Chrome",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":null,
+        "Location":"Chromepet ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"AVENUE HOTEL -CHENNAI AIRPORT",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Pallavaram ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"La Woods hotel (1Km from us consulate chennai)",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Mount road",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"E Hotel",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Royapettah",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Hotel Bakya Slot - Maraimalai Nagar",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Maraimalai Nagar ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Pharos Hotels",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":3.0,
+        "Location":"Nungambakkam",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Al Noor Palace",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Triplicane ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"JS Five two By twinstar hotel",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Raja Annamalai Puram",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"HOTEL HALEZ",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":null,
+        "Location":"Sholinganallur",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Essentia Premier Hotel",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Thoraipakkam",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"ILARA Hotel & Spa",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Navallur",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"The Centrepoint OMR",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Sholinganallur",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"KLASE HOTELS, GUINDY",
+        "Rating":3.3,
+        "Rating Description":"Good",
+        "Star Rating":3.0,
+        "Location":"Mount road ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Just Guest House",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Pazhavanthangal ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"GRAND OLIVER",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Poongavanapuram",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Pebbles Serviced Apartments\r\nLike a 3",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"T Nagar",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Mercure Chennai Sriperumbudur - An Accor Brand",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Oragadam ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"ZAITH RESIDENCY",
+        "Rating":3.4,
+        "Rating Description":"Good",
+        "Star Rating":null,
+        "Location":"Thousand Lights",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Mount Kailash Suites",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Mount road ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"The Mount City near US Consulate",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Triplicane ",
+        "City":"Chennai"
+    },
+    {
+        "Hotel Name":"Country Inn and Suites by Radisson, Sahibabad",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"In Ghaziabad ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Radisson Blu Kaushambi Delhi NCR",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"In Ghaziabad ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"The Ashok",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Chanakyapuri ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Pride Plaza Hotel Aerocity New Delhi",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Aerocity ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Golden Tulip Vasundhara Hotel & Suites, Delhi NCR",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"In Ghaziabad ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Welcomhotel by ITC Hotels, Dwarka, New Delhi",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Sector 10 Dwarka",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Holiday Inn New Delhi International Airport",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Aerocity ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Novotel New Delhi International Airport- An Accor hotels brand",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Aerocity ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"The Suryaa New Delhi",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"New Friends Colony",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"The Hosteller Delhi | Private Rooms & Dorms",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":null,
+        "Location":"New Friends Colony",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"The LaLiT New Delhi",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Connaught Place",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Radisson Blu Plaza Delhi Airport",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Mahipalpur ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Roseate House New Delhi",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Aerocity ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Lemon Tree Hotel East Delhi Mall Kaushambi",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"In Ghaziabad ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"YWCA OF DELHI BLUE TRIANGLE FAMILY HOSTEL",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Connaught Place ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Hotel Trans International",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Mahipalpur ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"The Leela Ambience Convention Hotel Delhi",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"East Delhi",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Jaypee Vasant Continental Hotel",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Vasant Vihar ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"YWCA INTERNATIONAL GUEST HOUSE",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Connaught Place ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Holiday Inn New Delhi Mayur Vihar",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"East Delhi",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Lemon Tree Premier Delhi Airport",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Aerocity ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Radisson Blu Marina Hotel Connaught Place",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Connaught Place",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"The Metropolitan Hotel and Spa",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Connaught Place",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"The Grand New Delhi",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Vasant Kunj ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Crowne Plaza Mayur Vihar",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"East Delhi",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Hotel Smart Plaza",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":3.0,
+        "Location":"Mahipalpur ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Hotel Aero Star",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":4.0,
+        "Location":"Mahipalpur ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Golden Bliss Near IGI Airport Mahipalpur",
+        "Rating":3.0,
+        "Rating Description":"Good",
+        "Star Rating":null,
+        "Location":"Mahipalpur ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Hotel International Inn",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Mahipalpur ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"The Park New Delhi",
+        "Rating":3.5,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Connaught Place ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"ibis New Delhi Aerocity - An Accor Brand",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Aerocity ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"goSTOPS Delhi - Rooms & Dorms",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Chandni Chowk ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Hotel The Royal Plaza",
+        "Rating":3.4,
+        "Rating Description":"Good",
+        "Star Rating":4.0,
+        "Location":"Connaught Place ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Taj Mahal, New Delhi",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Man Singh Road Area ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Hotel Shanti Palace (Mahipalpur)",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Mahipalpur ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Aloft New Delhi Aerocity",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Aerocity ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Radisson Blu Hotel New Delhi Dwarka",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Sector 13 Dwarka",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Hotel Star",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":4.0,
+        "Location":"Mahipalpur ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Pullman New Delhi International Airport- An Accor Luxury Brand",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Aerocity ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Hotel Aman Continental @ Paharganj",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":3.0,
+        "Location":"Paharganj ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Taj Palace, New Delhi",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Chanakyapuri ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Red Fox Hotel Delhi Airport",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Aerocity ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Vivanta New Delhi, Dwarka",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Sector 21 Dwarka",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"The Gold Regency @ Paharganj",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":3.0,
+        "Location":"Paharganj ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Red Brick | Home by Earthaa Escapes",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Malviya Nagar",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"JW Marriott Hotel New Delhi Aerocity",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Aerocity ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Crowne Plaza Rohini",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Rohini",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Park Plaza, Shahdara",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"East Delhi",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Andaz Delhi - A concept by Hyatt",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Aerocity ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Homestay AC Dormitory at Kashmiri Gate",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"North Delhi",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Zone Connect Saket Delhi",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Saket",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Crowne Plaza Okhla",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Okhla Industrial Area",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Taurus Sarovar Portico",
+        "Rating":3.1,
+        "Rating Description":"Good",
+        "Star Rating":4.0,
+        "Location":"Mahipalpur ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"The Leela Palace New Delhi",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Chanakyapuri ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Shangri-La Eros New Delhi",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Connaught Place ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Sheraton New Delhi",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Saket",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Hyatt Centric Janakpuri, New Delhi",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Janakpuri",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"ITC Maurya - A Luxury Collection Hotel",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Chanakyapuri ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Le Meridien Delhi",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Connaught Place ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Eros Hotel New Delhi ,Nehru Place",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Near Nehru Place",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Jaypee Siddharth Hotel",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Pusa road ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Hotel Vertu",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Mahipalpur ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Le ROI, Delhi@ New Delhi Railway Station",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Paharganj",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Ashiana Hotel @ New Delhi Railway Station",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Paharganj ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"The Roseate",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Mahipalpur ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"The Connaught, New Delhi - IHCL SeleQtions",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":4.0,
+        "Location":"Connaught Place ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Hyatt Regency New Delhi",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"R.K. Puram ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Hotel Samrat",
+        "Rating":3.2,
+        "Rating Description":"Good",
+        "Star Rating":4.0,
+        "Location":"Chanakyapuri ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"New Delhi YMCA Tourist Hostel | Rooms & Wi-Fi",
+        "Rating":3.5,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Connaught Place ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Golden Keys Inn",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"North Delhi",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Ginger East Delhi",
+        "Rating":3.5,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"East Delhi",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"The Hans",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Connaught Place ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Shubham Vilas",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Rajouri Garden",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Ramada By Wyndham New Delhi Pitampura",
+        "Rating":3.5,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"North Delhi",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Svelte Hotel & Personal Suites",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Saket",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"The Grand Uddhav",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Paharganj ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Hotel Chanakya Inn",
+        "Rating":3.4,
+        "Rating Description":"Good",
+        "Star Rating":3.0,
+        "Location":"Mahipalpur ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Hotel Viva Palace @ Delhi Airport",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Mahipalpur ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Hotel Hari Piorko",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Paharganj ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Hotel Southern",
+        "Rating":3.4,
+        "Rating Description":"Good",
+        "Star Rating":3.0,
+        "Location":"Karol bagh",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Hotel Delhi 37",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":3.0,
+        "Location":"Mahipalpur ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Red Fox Hotel East Delhi",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"East Delhi",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"HOME@B11",
+        "Rating":2.3,
+        "Rating Description":"Average",
+        "Star Rating":null,
+        "Location":"East Of Kailash",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"The Umrao",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Samalka ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"IIDL Suites",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"East Delhi",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Four Points by Sheraton Delhi",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Samalka ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Deventure Sarovar Portico, Kapashera, New Delhi",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Delhi ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"The Dream House BnB | Rooms & Caretaker",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Safdarjung Enclave ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Park Inn by Radisson, IP Extension- New Delhi",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"East Delhi",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"The Claridges New Delhi",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Motilal Nehru Marg Area ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"De Pavilion Hotel",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Mahipalpur ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Venizia Sarovar Portico",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"North Delhi",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Centaur Hotel",
+        "Rating":2.5,
+        "Rating Description":"Average",
+        "Star Rating":3.0,
+        "Location":"Delhi Airport ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"The Orion Plaza - Nehru Place",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Near Nehru Place",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Dee Marks Hotel & Resort Delhi Airport",
+        "Rating":3.4,
+        "Rating Description":"Good",
+        "Star Rating":4.0,
+        "Location":"Mahipalpur ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"HOTEL LE SEASONS",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Mahipalpur ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Caspia Hotel New Delhi Shalimar Bagh",
+        "Rating":3.4,
+        "Rating Description":"Good",
+        "Star Rating":3.0,
+        "Location":"North Delhi",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Park Inn by Radisson, Lajpat Nagar",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Andrews Ganj",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Jukaso Inn Down Town",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Connaught Place ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Hotel LA New Delhi",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Mangolpuri",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"Kelvish Hotel Near Delhi Airport",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Mahipalpur ",
+        "City":"Delhi"
+    },
+    {
+        "Hotel Name":"The Park Kolkata",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"New Market Area ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Zone By The Park, Kolkata",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"New Town",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"JW Marriott Hotel Kolkata",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Tangra",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"ibis Kolkata Rajarhat - An Accor Brand",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"New Town",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"The Lalit Great Eastern Kolkata",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Bow Barracks ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"ITC Royal Bengal - A Luxury Collection Hotel",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Tangra",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Lemon Tree Premier, New Town, Kolkata",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"New Town",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Novotel Kolkata Hotel and Residences",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"New Town",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"All Fresco Hotel",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Baguiati ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Regenta Orko's Kolkata",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Kasba ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Holiday Inn Express, Kolkata Airport",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Dum Dum ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Himalayan Inn Guest House - Near TCS Gitobitan",
+        "Rating":3.3,
+        "Rating Description":"Good",
+        "Star Rating":null,
+        "Location":"Salt Lake City",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Holiday Inn Kolkata Airport",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Chinar Park ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Taj City Centre New Town, Kolkata",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Rajarhat ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Vivanta Kolkata, EM Bypass",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"East Kolkata Township",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Hyatt Regency Kolkata",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Salt Lake City ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Bandhan Residency",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Kaikhali ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"The Oberoi Grand",
+        "Rating":4.7,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"New Market Area ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Fairfield by Marriott, Kolkata",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"New Town",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Ethnotel",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Dum Dum ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Backpackers Park Hostel @ParkStreet",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"New Market Area ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"THE WESTIN KOLKATA RAJARHAT",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"New Town ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Taj Bengal, Kolkata",
+        "Rating":4.6,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Alipore",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Hotel Senses",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Salt Lake City ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"ITC Sonar - A Luxury Collection Hotel",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Tangra",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Kenilworth Hotel",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":4.0,
+        "Location":"Park Street Area",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"The Peerless Inn",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Near Howrah Train Station ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"De Sovrani",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Salt Lake City",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Pride Plaza Hotel, Kolkata",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"New Town",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"City Central Hostel, Kolkata",
+        "Rating":4.6,
+        "Rating Description":"Excellent",
+        "Star Rating":null,
+        "Location":"Kolkata ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Siamton Inn - A Cygnett Collection",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Park Street ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Hotel Aauris",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Park Street ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Howard Johnson by Wyndham, Kolkata Airport",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Chinar Park ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Park Prime Kolkata",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Ballygunge",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Joey's Nest",
+        "Rating":4.7,
+        "Rating Description":"Excellent",
+        "Star Rating":null,
+        "Location":"Salt Lake City ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Hotel Hindusthan International",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Bhowanipore",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Hotel Niharika",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Elgin",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Vedic Village Spa Resort",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Vedic Village",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Park Palace Hotel",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Ballygunge",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Offbeat CCU Bunkers",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":null,
+        "Location":"Topsia",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Monotel Luxury Business Hotel",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Salt Lake City",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"AIRPORT CITY HOTEL",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Birati ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"The Lindsay",
+        "Rating":3.5,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"New Market Area ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"RituIvy",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"East Kolkata Township",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Hotel O2 Oxygen",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Near Kolkata Airport ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"VISITEL - A BOUTIQUE HOTEL",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Kankurgachi",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"IndiSmart Hotel",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Salt Lake City",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"LYNQ AERO",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Salt Lake City",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Park Guest House, Kolkata",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Park Street ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Regenta Inn Larica",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Chinar Park ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Golden Tulip Kolkata",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Salt Lake City",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"The Senator",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":3.0,
+        "Location":"Elgin",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Gallery 67",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Ghose Bagan ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"CHOWDHURY'S ESTATES",
+        "Rating":3.5,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Elgin",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Pipal Tree Hotel",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Chinar Park ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Stayotel",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Dum Dum ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Raajkutir, Kolkata - IHCL SeleQtions",
+        "Rating":4.6,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Kankurgachi ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"The Sonnet",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Salt Lake City",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Krishna Kunja | Rooms & Caretaker",
+        "Rating":4.6,
+        "Rating Description":"Excellent",
+        "Star Rating":null,
+        "Location":"South Dum Dum ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Aristocrat Hotel",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"New Town",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"The Fern Residency Kolkata",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Chinar Park ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Sapphire Suites",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"New Market Area ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Victoria Hotel",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Chinar Park ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"The Pearl Hotel",
+        "Rating":3.3,
+        "Rating Description":"Good",
+        "Star Rating":3.0,
+        "Location":"Beliaghata ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"The Astor",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Park Street Area",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Barsana Boutique Hotel (Pure vegetarian)",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Tangra",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"THE MAUREEN KOLKATA",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Baguiati ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"The Aster Penthouse",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Ballygunge ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"The Firangipani Suites",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"New Town",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Celesta",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Baguiati ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"HOTEL EASTERN PLAZA",
+        "Rating":3.3,
+        "Rating Description":"Good",
+        "Star Rating":3.0,
+        "Location":"Kaikhali ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Hotel Aura",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"New Market Area",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Viceroy Kolkata (Boutique Hotel)",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Chinar Park ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Beyzaa Hotel & Suites (Brewery Hotel)",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Salt Lake City",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"The CORPORATE",
+        "Rating":3.4,
+        "Rating Description":"Good",
+        "Star Rating":3.0,
+        "Location":"Park Street ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Hotel Trimoorti",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Bhowanipore",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Bubble Beds",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Kalighat ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"The Opus Kolkata - A Boutique Hotel",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Bhowanipore",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Hotel Crest Inn",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Park Circus",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Golden Parkk",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Park Street Area ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Hotel The Crest",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Park Circus",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Park Victoria Hotel",
+        "Rating":3.4,
+        "Rating Description":"Good",
+        "Star Rating":null,
+        "Location":"New Market Area ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"The Samilton",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Bhowanipore",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Treebo Trend Orion Sapphire Beck Bagan",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Park Street ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Eennra Oiitijhyya",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":3.0,
+        "Location":"Keyatala",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"The Aster Heritage Homestay | Rooms & Caretaker",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":null,
+        "Location":"New Market Area ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Basera Guest House",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Gariahat",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"LYNQ-CICO - Hotel",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Alipore",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"The Lake Hotel",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Dhakuria",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"The Aster Heritage Gold",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":null,
+        "Location":"New Market Area ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Treebo Tryst Tahoora International Park Street",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Park Street ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Southern Plaza",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Kalighat",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"DIAMOND PLAZA",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Bow Bazaar ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Lytton Hotel",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"New Market Area ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Dorota House | Room & Caretaker",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Salt Lake City",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Hotel O2 VIP",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Near Kolkata Airport ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Hotel Gateway Continental",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Dum Dum ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Hotel Air View",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Dum Dum ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Hotel Casa Fortuna",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Park Street Area",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Middleton Inn",
+        "Rating":3.5,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Park Street ",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"Hotel Sawood International",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Tangra",
+        "City":"Kolkata"
+    },
+    {
+        "Hotel Name":"The Orchid Hotel Mumbai Vile Parle",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Trident Bandra Kurla",
+        "Rating":4.6,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Bandra Kurla Complex ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"ITC Grand Central - A Luxury Collection Hotel",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"South Mumbai ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"IRA By Orchid Mumbai ( VITS Mumbai)",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Trident Nariman Point",
+        "Rating":4.6,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Marine Drive ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"The Lalit Mumbai",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Ginger Mumbai, Andheri East",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Andheri East ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Taj Santacruz, Mumbai",
+        "Rating":4.6,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Hotel Surya Prakash",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Chembur",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Hilton Mumbai International Airport",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Holiday Inn Mumbai International Airport",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"goSTOPS Mumbai - Rooms & Dorms",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"South Mumbai",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"The Regale by Tunga",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Andheri East ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Taj Lands End, Mumbai",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Bandra West ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Ramada Plaza By Wyndham Palm Grove, Juhu, Mumbai",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Juhu ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Sahara Star",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Qubestay Airport Capsule Hostel | Rooms & Dorms",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Andheri East ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Courtyard by Marriott Mumbai International Airport",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"The Westin Mumbai Garden City",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Goregaon ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"JW Marriott Mumbai Juhu",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Juhu ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"ITC Maratha - A Luxury Collection Hotel",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"City Stay",
+        "Rating":4.6,
+        "Rating Description":"Excellent",
+        "Star Rating":null,
+        "Location":"Andheri East ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"JW Marriott Mumbai Sahar",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Radisson Mumbai Andheri MIDC",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Andheri East ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Sofitel Mumbai BKC- Luxury Brand by Accor",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Bandra Kurla Complex ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"The Leela Mumbai",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Novotel Mumbai International Airport",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Radisson Blu Mumbai International Airport",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Sun-N-Sand",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Juhu ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"The St. Regis Mumbai",
+        "Rating":4.5,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"South Mumbai ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Niranta Airport Transit Hotel & Lounge Terminal 2 Arrivals\/Landside",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"In Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Zostel Mumbai",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Andheri East ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"President, Mumbai - IHCL SeleQtions",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"South Mumbai ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Novotel Mumbai Juhu Beach",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Juhu ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Ibis Mumbai Airport - An Accor Brand",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Ginger Mumbai, Andheri (MIDC)",
+        "Rating":3.4,
+        "Rating Description":"Good",
+        "Star Rating":3.0,
+        "Location":"Jogeshwari East ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Lakeside Chalet Marriott Executive Apartments",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Powai ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Lemon Tree Hotel, Kalina, Mumbai",
+        "Rating":3.3,
+        "Rating Description":"Good",
+        "Star Rating":4.0,
+        "Location":"Bandra Kurla Complex ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Ramee Guestline Hotel Juhu",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Juhu ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Ramee Techome",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Khar West ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Shabana",
+        "Rating":3.5,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Colaba ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Hotel Bawa International",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Ginger Mumbai, Goregaon",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Goregaon ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Grand Hyatt Mumbai",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Hotel Marine Plaza",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Churchgate ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Lemon Tree Premier, Mumbai International Airport, Mumbai",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Hotel Airport International",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Dragonfly Hotel - The Art Hotel",
+        "Rating":3.5,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Four Seasons Hotel Mumbai",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"South Mumbai",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Gateway Inn | Rooms in an Apartment",
+        "Rating":3.2,
+        "Rating Description":"Good",
+        "Star Rating":null,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"The Oberoi, Mumbai",
+        "Rating":4.7,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Marine Drive ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Hotel Jyoti Dwelling",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Indie Stays",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Bandra Kurla Complex ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Meluha - The Fern",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Powai ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Afra dormitory",
+        "Rating":4.8,
+        "Rating Description":"Excellent",
+        "Star Rating":null,
+        "Location":"Andheri East ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Hotel Airlink",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"The Fern Goregaon",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Goregaon ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Mirage Hotel",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"RELOhomes | 1 BHK Apartment",
+        "Rating":4.6,
+        "Rating Description":"Excellent",
+        "Star Rating":null,
+        "Location":"Powai ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Click Hotel Caliph",
+        "Rating":3.3,
+        "Rating Description":"Good",
+        "Star Rating":3.0,
+        "Location":"Powai ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"HOTEL LEAFIO MARIGOLD",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Keys Select by Lemon Tree Hotels, Nestor, Mumbai",
+        "Rating":3.5,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Andheri East ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Hotel Sea Princess",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Juhu ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"HOTEL WEGO",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Rodas - An Ecotel Hotel",
+        "Rating":4.4,
+        "Rating Description":"Excellent",
+        "Star Rating":3.0,
+        "Location":"Powai ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"The Westin Mumbai Powai Lake",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Powai ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Mayura Aureole Co-Living",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Goregaon ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Sea Green Hotel",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Churchgate ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"ibis Mumbai Vikhroli - An Accor Brand",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Vikhroli West ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Aboo's Concord Galaxy",
+        "Rating":3.3,
+        "Rating Description":"Good",
+        "Star Rating":3.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"The Paradise by Tunga",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Andheri East ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Address Dormitory",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Andheri East ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Arnna Hotel - Goregaon",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Goregaon ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Ramee Guestline Hotel - Dadar",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"South Mumbai",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Hotel Metro Palace",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Bandra West ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Hotel Manama",
+        "Rating":3.5,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"South Mumbai ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Aashiyana Dormitory",
+        "Rating":3.1,
+        "Rating Description":"Good",
+        "Star Rating":null,
+        "Location":"South Mumbai ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"T24 Residency",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"The Taj Mahal Palace, Mumbai",
+        "Rating":4.7,
+        "Rating Description":"Excellent",
+        "Star Rating":5.0,
+        "Location":"Colaba ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"The Roa Hotel",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Ghatkopar West ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Hotel Leafio",
+        "Rating":3.5,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"The Byke Delotel",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Borivali West",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"The Empresa Hotel",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Andheri West ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"HOTEL KOHINOOR PARK",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"South Mumbai ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"The Altruist Business Hotel (Andheri)",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Jogeshwari East ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Hotel Parle International",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Ocean Dormitory",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Asalpha ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Hotel Beacon T2",
+        "Rating":3.2,
+        "Rating Description":"Good",
+        "Star Rating":4.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Hotel Columbus",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Sea Green South Hotel",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Churchgate ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Hotel Suba International",
+        "Rating":4.3,
+        "Rating Description":"Excellent",
+        "Star Rating":4.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Classic Dormitory",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Andheri East ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"The Resort Mumbai",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":5.0,
+        "Location":"Madh",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"The Mirador",
+        "Rating":3.7,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"The Sahil Hotel",
+        "Rating":4.2,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"South Mumbai ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Avion Hotel",
+        "Rating":3.3,
+        "Rating Description":"Good",
+        "Star Rating":3.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Blossom Dormitory ( For Male and Female)",
+        "Rating":3.6,
+        "Rating Description":"Very Good",
+        "Star Rating":null,
+        "Location":"Sakinaka ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Comfort Inn Heritage",
+        "Rating":3.9,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"South Mumbai",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Hotel Planet Residency",
+        "Rating":3.8,
+        "Rating Description":"Very Good",
+        "Star Rating":3.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Hotel Kohinoor Elite",
+        "Rating":4.1,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Near Mumbai Airport ",
+        "City":"Mumbai"
+    },
+    {
+        "Hotel Name":"Residency Hotel Andheri",
+        "Rating":4.0,
+        "Rating Description":"Very Good",
+        "Star Rating":4.0,
+        "Location":"Andheri East ",
+        "City":"Mumbai"
+    }
+]

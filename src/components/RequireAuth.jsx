@@ -1,17 +1,32 @@
-import React from "react";
-import {useAuth, RedirectToSignIn} from "@clerk/clerk-react";
+import { Navigate, Outlet } from "react-router-dom";
+import { jwtDecode } from "jwt-decode";  // ✅ Correct
 
-const RequireAuth = ({children}) => {
-    const {isSignedIn} = useAuth();
-
-    // console.log("User Signed In:", isSignedIn);
+// Get user role from JWT
+const getUserRole = () => {
+    const token = localStorage.getItem("token");
+    console.log('Inside auth');
+    if (!token) return null;
     
-    if(!isSignedIn)
-    {
-        return <RedirectToSignIn/>;
-    }
 
-    return <>{children}</>;
+    try {
+        const decoded = jwtDecode(token);
+        return decoded.role; // Role stored in JWT
+    } catch (error) {
+        return null;
+    }
 };
 
-export default RequireAuth;
+export const RequireAuth = ({ allowedRoles }) => {
+    const role = getUserRole();
+    console.log(role);
+    
+    if (!role) {
+        return <Navigate to="/login" replace />;
+    }
+
+    if (!allowedRoles.includes(role)) {
+        return <Navigate to="/" replace />;
+    }
+
+    return <Outlet />;
+};
